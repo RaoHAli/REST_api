@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64548048-295c-4849-b6aa-4b4e7e5c5a98" name="Default Changelist" comment="" />
+    <list default="true" id="64548048-295c-4849-b6aa-4b4e7e5c5a98" name="Default Changelist" comment="done with pycharm" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578058207601</updated>
       <workItem from="1578221740929" duration="1363000" />
-      <workItem from="1578229355802" duration="1084000" />
+      <workItem from="1578229355802" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="done with pycharm">
       <created>1578222596841</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578231379009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done with pycharm">
+      <created>1578231845191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578231845191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
